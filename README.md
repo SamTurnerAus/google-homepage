@@ -1,0 +1,1 @@
+This is a quick excercise in HTML and CSS to replicate the Google homepage. It was done as practice for the Odin Project which I did as a refresher in my University break.
