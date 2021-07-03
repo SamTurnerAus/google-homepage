@@ -1,0 +1,36 @@
+#page-content {
+  display: flex;
+  flex-direction: column;
+}
+
+#page-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+#google-icon {
+  display: flex;
+  justify-content: center;
+  height: 250px;
+  align-content: flex-end;
+}
+
+#image {
+  margin-top: 40px;
+}
+
+#search-bar {
+  display: flex;
+  justify-content: center;
+}
+
+#buttons {
+  display: flex;
+  justify-content: center;
+}
+
+#page-footer {
+  position: absolute;
+  bottom: 0;
+  right: 50%;
+}
